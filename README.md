@@ -1,1 +1,1 @@
-# demo-blog
+# Serverless Blog Demo
